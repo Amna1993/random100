@@ -1,0 +1,16 @@
+img{
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+}
+
+.first{
+    color: green;
+    text-align: center;
+}
+
+#random{
+    color:chartreuse;
+    text-align: center;
+}
